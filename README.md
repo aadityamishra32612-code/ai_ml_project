@@ -3,7 +3,7 @@
 
 An Applied Machine Learning project that uses historical solar irradiation and weather data from NASA POWER to predict daily solar irradiation across 10 Indian cities using regression models. The predicted irradiation will support rooftop solar electricity generation, panel capacity estimation, and installation cost calculations.
 
-## 📌 Project Overview
+## 📌 Project OVerview
 
 Solar energy is an important renewable energy resource in India. However, solar irradiation varies across geographical locations, seasons, and weather conditions.
 
