@@ -22,12 +22,6 @@ The project also aims to integrate these predictions into a rooftop solar calcul
 - Estimate rooftop solar electricity generation and installation costs.
 - Develop an interactive prediction interface using Jupyter Widgets.
 
-## 👥 Team Members
-
-| Name | SAP ID | Batch |
-|---|---|---|
-| Aditya Mishra | 590029219 | B26 |
-| Raghav Bharadwaj | 590025137 | B26 |
 
 **Course:** Applied Machine Learning  
 **Project Type:** Regression
