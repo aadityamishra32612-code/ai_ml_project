@@ -326,6 +326,4 @@ The current prediction model requires user-provided weather parameters and does 
 
 ---
 
-**Developed as part of the Applied Machine Learning course.**
 
-Made with Python, Machine Learning, and ☀️ Solar Energy.
